@@ -1,4 +1,4 @@
-README - Pydalboard
+README - PyDAW
 
 Description:
 Pydalboard is a music application that emulates music effects pedals and allows the user to play and record audio with multiple digital effects at their disposal. The name is a play on the term “pedalboard”, which is a collection of effects pedals that musicians use when performing. Using the built-in recording, looping, and pedal functions, users can record an audio sample, loop it, and play over it; add effects, such as distortion, chorus, and phasing, to recordings and real-time playing; insert a pre-recorded file into the program and add effects to it; and customize effects pedals to create their own unique sound.
